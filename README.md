@@ -2,7 +2,7 @@ Syncing Student Work in the Lab
 ===============================
 What?
 -----
-We wanted a simple way for students to save files on any of Macs in the lab and find those files on any of the other comptuers in the lab. Students do not login with their own credentials. They login as a student with username student.
+We wanted a simple way for students to save files on any of Macs in the lab and find those files on any of the other Macs in the lab. Students do not login with their own credentials. They login as a student with username student.
 
 We also wanted to set this up so that students didn't have to think about using Dropbox.
 
